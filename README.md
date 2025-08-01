@@ -11,3 +11,4 @@ Edited `App.tsx` to display: `Hello, [Your Name]!`
 
 The hardest part was setting up Expo CLI due to Node version issues. I fixed it by using the recommended `npx` commands instead of the global CLI.
 
+Check the assets file for screenshots of the working code 
